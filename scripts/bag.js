@@ -55,7 +55,7 @@ function removeProductFormBag (itemId) {
   // console.log(bagItemsCount);
 }
 
-console.log(bagItemObject);
+// console.log(bagItemObject);
 
 function displayBagPrice () {
   let BagPriceElement = document.querySelector('.price_list');
