@@ -25,7 +25,7 @@ function displayBagItems () {
 bagItemObject.forEach(element => {
    bagHtml += `<div class="bag_item">
               <div class="product_img">
-                <img src="${element.image}" alt="Add to cart">
+                <img src="../${element.image}" alt="Add to cart">
               </div>
               <div class="product_detail">
                 <p class="company_name">${element.company}</p>
