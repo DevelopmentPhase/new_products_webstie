@@ -1,7 +1,7 @@
 const productList = [
   {
     id: "001",
-    image: "/images/products/product-1.webp",
+    image: "../images/products/product-1.webp",
     company: "FUBAR",
     item_name: "Men Slim Fit Solid Spread Collar Casual Shirt",
     original_price: 1000,
@@ -14,7 +14,7 @@ const productList = [
   },
   {
     id: "002",
-    image: "/images/products/product-2.webp",
+    image: "../images/products/product-2.webp",
     company: "DHADUK",
     item_name: "Men Regular Fit Solid Spread Collar Casual Shirt",
     original_price: 1199,
@@ -27,7 +27,7 @@ const productList = [
   },
   {
     id: "003",
-    image: "/images/products/product-3.webp",
+    image: "../images/products/product-3.webp",
     company: "indicare",
     item_name: "Men Super Slim, Regular, Slim Fit Printed Cut Away Collar Casual Shirt",
     original_price: 1499,
@@ -40,7 +40,7 @@ const productList = [
   },
   {
     id: "004",
-    image: "/images/products/product-4.webp",
+    image: "../images/products/product-4.webp",
     company: "Roadster",
     item_name: "Men Regular Fit Printed Spread Collar Casual Shirt",
     original_price: 1699,
@@ -53,7 +53,7 @@ const productList = [
   },
   {
     id: "005",
-    image: "/images/products/product-5.webp",
+    image: "../images/products/product-5.webp",
     company: "Roadster",
     item_name: "Men Regular Fit Checkered Spread Collar Casual Shirt",
     original_price: 1299,
@@ -66,7 +66,7 @@ const productList = [
   },
   {
     id: "006",
-    image: "/images/products/product-6.webp",
+    image: "../images/products/product-6.webp",
     company: "Kalini",
     item_name: "Floral Printed Anarkali Kurta & Trousers With Dupatta - S",
     original_price: 4999,
@@ -79,7 +79,7 @@ const productList = [
   },
   {
     id: "007",
-    image: "/images/products/product-7.webp",
+    image: "../images/products/product-7.webp",
     company: "MANHAREE",
     item_name: "Women's Rayon Kurta with Pant & Dupatta Set",
     original_price: 2999,
@@ -92,7 +92,7 @@ const productList = [
   },
   {
     id: "008",
-    image: "/images/products/product-8.webp",
+    image: "../images/products/product-8.webp",
     company: "RIAANA ",
     item_name: "Women Embroidered Cotton Blend A-line Kurta (Yellow)",
     original_price: 999,
@@ -105,7 +105,7 @@ const productList = [
   },
   {
     id: "009",
-    image: "/images/products/product-9.webp",
+    image: "../images/products/product-9.webp",
     company: "ZIKIGO",
     item_name: "Baby Boys & Baby Girls Ben 10 Casual T-shirt Trouser (Green)",
     original_price: 1599,
@@ -118,7 +118,7 @@ const productList = [
   },
   {
     id: "0010",
-    image: "/images/products/product-10.webp",
+    image: "../images/products/product-10.webp",
     company: "Nelkar",
     item_name: "Boys Casual Shirt Track Pants  (Green)",
     original_price: 1000,
@@ -131,7 +131,7 @@ const productList = [
   },
   {
     id: "0011",
-    image: "/images/products/product-11.webp",
+    image: "../images/products/product-11.webp",
     company: "TEESHACK",
     item_name: "Boys Printed Cotton Blend Regular T Shirt (Dark Green, Pack of 1)",
     original_price: 1499,
@@ -144,7 +144,7 @@ const productList = [
   },
   {
     id: "0012",
-    image: "/images/products/product-12.webp",
+    image: "../images/products/product-12.webp",
     company: "OPTURN",
     item_name: "Baby Boys & Baby Girls Casual Waistcoat Pant (pink)",
     original_price: 1199,
